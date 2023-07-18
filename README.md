@@ -1,6 +1,6 @@
-## Fazendo um ChatBot
+# Fazendo um ChatBot
 
-# Usando IA da OpenAI 
+## Usando IA da OpenAI 
 
 Não teve resposta da IA pois é preciso pagar para uma response
 
